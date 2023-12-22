@@ -17,7 +17,7 @@ function notify(msg) {
         style: {
             width: "300px",
             borderRadius: "8px",
-            background: "#f8ecc2",
+            background:  "#f8ecc2",
             color: "#333",
             fontSize: "16px",
             textAlign: "center",
